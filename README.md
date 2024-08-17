@@ -6,7 +6,7 @@ ML Engineer
 -----------
 As a results-driven professional with 8 years of successful business management and data analysis experience, I am currently pursuing a Master's degree in Artificial Intelligence (final semester), specializing in machine learning. With a diverse background in programming, data analysis, and multiple industries, I am passionate about leveraging my expertise to automate tasks, enhance accuracy, and uncover hidden insights within data. I am actively seeking a position that allows me to apply machine learning algorithms and technical skills to solve complex problems and drive business growth.
 
-*   🌍  I'm based in Hong Kong
+*   🌍  Currently I'm based in Hong Kong
 *   ✉️  You can contact me at [m.rahimi.hk@gmail.com](mailto:m.rahimi.hk@gmail.com)
 *   ### Certifications
   
