@@ -11,7 +11,7 @@ As a results-driven professional with 8 years of successful business management 
 *   ### Certifications
   
 <div style="display: flex; justify-content: space-around;">
-  <img src="Certifications/aws-certified-machine-learning-specialty.png" alt="Image 1" width="16%">
+  <img src="Certifications/aws-certified-machine-learning-specialty.png" alt="Image 1" width="18%">
   <img src="Certifications/aws-certified-cloud-practitioner.png" alt="Image 2" width="13%">
 </div>
 
