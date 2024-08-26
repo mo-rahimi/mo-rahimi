@@ -5,7 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ML Engineer
 -----------
 
-Transitioned from an experienced Business Intelligence Analyst to a Machine Learning Engineer by pursuing a Master’s degree in Artificial Intelligence, with over 10 years of experience in data analysis and business management across multiple industries
+Transitioned from an experienced Business Intelligence Analyst to a Machine Learning Engineer by pursuing a Master’s degree in Artificial Intelligence, with over 10 years of experience in data analysis and business management across multiple industries.
+
 As a results-driven professional, I am passionate about leveraging my expertise to automate tasks, enhance accuracy, and uncover hidden insights within data. I am actively seeking a position that allows me to apply machine learning algorithms and technical skills to solve complex problems.
 
 *   🌍  Currently I'm based in Hong Kong
