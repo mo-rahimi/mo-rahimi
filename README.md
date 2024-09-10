@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ML Engineer
 -----------
+Possess over 10 years of experience in data and Business Intelligence analysis across multiple industries.
 
-Transitioned from an experienced Business Intelligence Analyst to a Machine Learning Engineer by pursuing a Master’s degree in Artificial Intelligence, with over 10 years of experience in data analysis and business management across multiple industries.
+Embarked on a transformative journey by earning a Master’s degree in Artificial Intelligence, which has profoundly deepened my expertise in predictive data analysis, data science, machine learning, and AI. This experience has fueled my passion and equipped me with cutting-edge skills to drive innovative solutions in the data-driven industry.
 
 As a results-driven professional, I am passionate about leveraging my expertise to automate tasks, enhance accuracy, and uncover hidden insights within data. I am actively seeking a position that allows me to apply machine learning algorithms and technical skills to solve complex problems.
 
-Currently, I'm developing an LLM-based Generative AI application using RAG to convert natural language into SQL for retrieving business data from PostgreSQL. 
+Currently, I'm developing an LLM-based Generative AI application using RAG to convert natural language into SQL for retrieving business data from PostgreSQL.
 
 *   🌍  Based in Hong Kong
 *   ✉️  You can contact me at [m.rahimi.hk@gmail.com](mailto:m.rahimi.hk@gmail.com)
