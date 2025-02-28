@@ -12,8 +12,10 @@ As a results-driven professional, I am passionate about leveraging my expertise 
 
 Currently, I'm developing an LLM-based Generative AI application using RAG to convert natural language into SQL for retrieving business data from PostgreSQL.
 
+<!-- 
 *   🌍  Based in Hong Kong
 *   ✉️  You can contact me at [m.rahimi.hk@gmail.com](mailto:m.rahimi.hk@gmail.com)
+-->
 *   ### Certifications
   
 <div style="display: flex; justify-content: space-around;">
